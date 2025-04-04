@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Git-Curso\\Ejemplo1Git\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5129AC77-ED95-4B7F-94BD-CF734E9F7DBB}|Ejemplo1Git\\Ejemplo1Git.csproj|c:\\users\\manue\\onedrive\\escritorio\\git-curso\\ejemplo1git\\ejemplo1git\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5129AC77-ED95-4B7F-94BD-CF734E9F7DBB}|Ejemplo1Git\\Ejemplo1Git.csproj|solutionrelative:ejemplo1git\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Git-Curso\\Ejemplo1Git\\Ejemplo1Git\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejemplo1Git\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Git-Curso\\Ejemplo1Git\\Ejemplo1Git\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejemplo1Git\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T03:33:01.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
